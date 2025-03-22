@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program losujący postacie NPC v2", "Program losujący postacie NPC v2.csproj", "{88FE70CD-060F-4D4B-A45F-31B4A352E54A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88FE70CD-060F-4D4B-A45F-31B4A352E54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88FE70CD-060F-4D4B-A45F-31B4A352E54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88FE70CD-060F-4D4B-A45F-31B4A352E54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88FE70CD-060F-4D4B-A45F-31B4A352E54A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {893E52B0-FA7E-4155-A035-B1C027F59A70}
+	EndGlobalSection
+EndGlobal
